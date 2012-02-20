@@ -53,7 +53,7 @@ fi
 
 
 
-SBT_VERSION="0.11.0"
+SBT_VERSION="0.11.2"
 SBT_JAR="sbt-launch-$SBT_VERSION.jar"
 SBT_PROPS="sbt-$SBT_VERSION.boot.properties"
 SBT_URL="http://s3.amazonaws.com/heroku-jvm-langpack-scala/$SBT_JAR"
